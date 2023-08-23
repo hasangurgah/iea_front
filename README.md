@@ -5,4 +5,4 @@
 <img src="https://i.hizliresim.com/rno8467.png" alt="Bilgisayar Ekranı">
 
 ## Telefon ekranına ait görüntü
-<img src="https://www.hizliresim.com/jl34euq.png" alt="Telefon Ekranı">
+<img src="https://i.hizliresim.com/jl34euq.png" alt="Telefon Ekranı">
