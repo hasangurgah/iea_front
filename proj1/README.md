@@ -2,7 +2,6 @@
 
 
 ## Bilgisayar ekranına ait görüntü
-# 1
 <img src="https://i.hizliresim.com/rno8467.png" alt="Bilgisayar Ekranı">
 
 ## Telefon ekranına ait görüntü
